@@ -1,0 +1,19 @@
+{
+  "name": "@douglasrosa/my-test-package",
+  "version": "1.0.1",
+  "description": "My test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasrosa0110/my-test-package.git"
+  },
+  "author": "douglasrosa0110",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasrosa0110/my-test-package/issues"
+  },
+  "homepage": "https://github.com/douglasrosa0110/my-test-package#readme"
+}
